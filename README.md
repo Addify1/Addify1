@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Addify1
+- 👋 Hi, I’m @Ifran
 - 👀 I’m interested in Office 365 automation
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on prompt engineering
